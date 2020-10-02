@@ -21,7 +21,7 @@ Both this website and tgmguide work using Jekyll and have almost the same theme,
 
 ## "sinewave slicer"
 
-sinewave slicer is my old username but also the alias I used to creating music. I've since laid it to rest, but I figured it wouldn't hurt to leave the music out there. Everything has been written on a Game Boy using a homebrew named Little Sound DJ (or LSDJ), so I had to make my music with the constraints of a real Game Boy - more or less. Sometimes I took a bit of artistic liberty and touched things up using Audacity.
+sinewave slicer is my old username but also the alias I used when creating music. I've since laid it to rest, but I figured it wouldn't hurt to leave the music out there. Everything has been written on a Game Boy using a homebrew named Little Sound DJ (or LSDJ), so I had to make my music with the constraints of a real Game Boy - more or less. Sometimes I took a bit of artistic liberty and touched things up using Audacity.
 
 You can find the sinewave slicer Soundcloud account [right here.](https://www.soundcloud.com/sinewaveslicer)
 
