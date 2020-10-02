@@ -1,6 +1,6 @@
 # sinefuse.github.io
 
-My own personal website, built on the fundamental structure of tgmguide.github.io.
+My own personal website, built on the fundamental structure of tgmguide.github.io. It's still a work in progress.
 
 As such, this website is based on [Lanyon](https://lanyon.getpoole.com/) (with modifications to the CSS and the template pages), which in turn is a theme for [Jekyll](https://jekyllrb.com).
 
