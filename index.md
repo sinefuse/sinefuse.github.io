@@ -1,6 +1,6 @@
 ---
 layout: newhome
-title: sinefuse's corner
+title: Home
 ---
 
 # Hello, I'm sinefuse!
