@@ -16,7 +16,7 @@ Here's a bunch of places you can find me at:
 
 [Twitch](https://twitch.tv/sinefuse)
 
-[Github]()
+[Github](https://github.com/sinefuse)
 
 Soundcloud:
 
