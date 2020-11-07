@@ -6,7 +6,7 @@ title: Home
 # Hello, I'm sinefuse!
 
 <br/>
-I'm 22 years old and from Germany. While I was born male, I don't really care about my gender a lot, so feel free to use any pronouns for me.
+I'm 23 years old and from Germany. While I was born male, I don't really care about my gender a lot, so feel free to use any pronouns for me.
 
 I do and have done lots of different things already, mostly on the creative side - from photo editing to making experimental music using a Game Boy. Every now and then, I do tackle other random challenges, such as making things like this website.
 
