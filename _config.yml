@@ -5,6 +5,7 @@ description:         "This is sinefuse's personal website."
 url:                 https://sinefuse.moe
 baseurl:             ''
 permalink:           pretty
+include:             [".well-known", ".nojekyll"]
 
 # About/contact
 author:
