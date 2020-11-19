@@ -3,10 +3,9 @@ layout: post
 title: Why I don't use Twitter
 ---
 
-```
-TL;DR: 
+
+## TL;DR: 
 Social Media has too much leverage over real life and Twitter is known to be incredibly toxic and hateful in multiple instances. It is simply not worth my time anymore.
-```
 
 I used to use Twitter a lot back when I still had my original accounts: I'd often retweet smaller artists or cosplayers who deserve more exposure for what they do and I would often also just share memes and have a good laugh. However, that isn't the problem that I have with Twitter, it's one single trait, but also something else that entails said trait:
 
