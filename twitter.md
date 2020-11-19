@@ -7,9 +7,11 @@ title: Why I don't use Twitter
 ## TL;DR: 
 Social Media has too much leverage over real life and Twitter is known to be incredibly toxic and hateful in multiple instances. It is simply not worth my time anymore.
 
+### Read along if you're interested in more info.
+
 I used to use Twitter a lot back when I still had my original accounts: I'd often retweet smaller artists or cosplayers who deserve more exposure for what they do and I would often also just share memes and have a good laugh. However, that isn't the problem that I have with Twitter, it's one single trait, but also something else that entails said trait:
 
-## Guilt by association.
+### Guilt by association.
 
 For some unknown reason, Twitter users have started to actively police their friends or other people they follow. What I mean by that is that Person A follows Person B, but Person C thinks that person B is bad, so they will tell Person A to not follow person B. I have noticed this many, many times over the several years I have used Twitter, and it has gotten to a point where people cannot even press the Like button on some content they like without being judged for it. 
 
