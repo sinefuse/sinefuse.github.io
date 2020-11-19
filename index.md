@@ -12,16 +12,12 @@ I do and have done lots of different things already, mostly on the creative side
 
 Here's a bunch of places you can find me at:
 
-[Twitter](https://twitter.com/sinefuse)
+[Keybase](https://keybase.io/sinefuse)
 
 [Twitch](https://twitch.tv/sinefuse)
 
 [Github](https://github.com/sinefuse)
 
-Soundcloud:
-
-[Actual music](https://soundcloud.com/sinewaveslicer)
-
-[Aural nonsense](https://soundcloud.com/firnon)
-
 Discord: sinefuse#8888 - please only contact me here if it's very urgent!
+
+I have since stopped using Twitter - [here is why.]({{ site.baseurl }}/twitter)
