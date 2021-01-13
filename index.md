@@ -21,3 +21,5 @@ Here's a bunch of places you can find me at:
 Discord: sinefuse#8888 - please only contact me here if it's very urgent!
 
 I have since stopped using Twitter - [here is why.]({{ site.baseurl }}/twitter)
+
+Also, I've written a document on why keyboard polling rates do matter, unlike what a bunch of custom keyboard enthusiasts say - [have a read.]({{ site.baseurl }}/polling)
