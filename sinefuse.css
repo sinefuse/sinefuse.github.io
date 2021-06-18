@@ -1,4 +1,5 @@
 /* PS3 TECHNOLOGY */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@1&display=swap');
 
 html {
 	--main-bg-color: #f2f2f2;
@@ -43,7 +44,7 @@ body {
 	/*let's try something a bit different...*/
 	/*font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
 	font-size: 18px;
-	font-family: "PT Serif", Georgia, "Times New Roman", serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	color: var(--main-text-color);
 	background: var(--main-bg-color);
 	word-wrap: break-word;
@@ -64,22 +65,19 @@ hr {
 }
 
 h1, h2{
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    font-weight: 400;
+	font-family: 'Source Sans Pro', sans-serif;
 	color: var(--theme-text-color);
 	text-align: center;
 }
 
 h3{
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
-	font-weight: 400;
+	font-family: 'Source Sans Pro', sans-serif;
 	color: var(--theme-sub-text-color);
 	padding-left: 20px;
 }
 
 header {
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    font-weight: 400;
+	font-family: 'Source Sans Pro', sans-serif;
 	text-align: center;
 }
 
