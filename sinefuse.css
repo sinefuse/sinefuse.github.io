@@ -43,7 +43,7 @@ body {
 	/*let's try something a bit different...*/
 	/*font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
 	font-size: 18px;
-	font-family: "courier new", monospace;
+	font-family: "PT Serif", Georgia, "Times New Roman", serif;
 	color: var(--main-text-color);
 	background: var(--main-bg-color);
 	word-wrap: break-word;
@@ -64,21 +64,22 @@ hr {
 }
 
 h1, h2{
-	font-family: "courier new", monospace;
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
 	color: var(--theme-text-color);
-	font-family: monospace;
 	text-align: center;
 }
 
 h3{
-	font-family: "courier new", monospace;
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+	font-weight: 400;
 	color: var(--theme-sub-text-color);
-	font-family: monospace;
 	padding-left: 20px;
 }
 
 header {
-	font-family: "courier new", monospace;
+	font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    font-weight: 400;
 	text-align: center;
 }
 
