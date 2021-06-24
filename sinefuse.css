@@ -1,37 +1,41 @@
 /* PS3 TECHNOLOGY */
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&display=swap');
 
+/* fallback: dark theme */
 html {
-	--main-bg-color: #f2f2f2;
-	--sub-bg-color: #e2e2e2;
-	--main-text-color: #111;
-	--sub-text-color: #222;
-	--theme-bg-color: #582012;
-	--theme-text-color: #e71f1f;
-	--theme-sub-text-color: #e68282;
+	--main-bg-color: #111;
+	--sub-bg-color: #222;
+	--main-text-color: #eee;
+	--sub-text-color: #ddd;
+	--theme-bg-color: #470B0B;
+	--theme-text-color: #B31B1B;
+	--theme-sub-text-color: #893C41;
 }
 
+
+/* Lucia for dark theme */
 @media (prefers-color-scheme: dark) {
 html {
 	--main-bg-color: #111;
 	--sub-bg-color: #222;
 	--main-text-color: #eee;
 	--sub-text-color: #ddd;
-	--theme-bg-color: #113341;
-	--theme-text-color: #00b0c0;
-	--theme-sub-text-color: #ade0e5;
+	--theme-bg-color: #470B0B;
+	--theme-text-color: #B31B1B;
+	--theme-sub-text-color: #893C41;
 	}
 }
 
+/* Sophie for light theme */
 @media (prefers-color-scheme: light) {
 	html {
-	--main-bg-color: #f2f2f2;
-	--sub-bg-color: #e2e2e2;
+	--main-bg-color: #eee;
+	--sub-bg-color: #ddd;
 	--main-text-color: #111;
 	--sub-text-color: #222;
-	--theme-bg-color: #582012;
-	--theme-text-color: #e71f1f;
-	--theme-sub-text-color: #e68282;
+	--theme-bg-color: #B894DB;
+	--theme-text-color: #9966CC;
+	--theme-sub-text-color: #5C2E8A;
 	}
 }
 
